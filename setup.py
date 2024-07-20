@@ -37,7 +37,7 @@ Rohit Motwani
 """
 
 __version__ = "0.0.4"
-REPO_NAME = "Mongo-Python-Package"
+REPO_NAME = "MongoDB-Python-Package"
 PKG_NAME= "mongodb-databaseautomation" # should be unique
 AUTHOR_USER_NAME = "Rohit131313"
 AUTHOR_EMAIL = "abc123@gmail.com"
