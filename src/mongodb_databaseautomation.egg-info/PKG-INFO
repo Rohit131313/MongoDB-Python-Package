@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: mongodb-databaseautomation
+Version: 0.0.4
+Summary: A python package for connecting with database.
+Home-page: https://github.com/Rohit131313/Mongo-Python-Package
+Author: Rohit131313
+Author-email: abc123@gmail.com
+Project-URL: Bug Tracker, https://github.com/Rohit131313/Mongo-Python-Package/issues
+
 **MongoDB Automation**
 
 **Description**
